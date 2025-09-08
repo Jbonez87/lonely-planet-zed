@@ -207,7 +207,8 @@
             "font_weight": 700
           },
           "keyword": {
-            "color": "#FF708E"
+            "color": "#89BDE4",
+            "font_style": "italic"
           },
           "label": {
             "color": "#89BDE4"
